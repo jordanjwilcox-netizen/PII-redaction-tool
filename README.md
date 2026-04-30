@@ -7,6 +7,8 @@ A local AI-powered privacy redaction desktop app built on OpenAI Privacy Filter
 - Supports .txt and .docx files
 - Preserves Word formatting
 - Detects PII using AI + regex fallback
+- Allows for single file and fodler level redaction
+- UI lists data identified with confidence score 
 
 ## Planned Features
 - DOB redaction
